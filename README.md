@@ -3,9 +3,15 @@
 https://user-images.githubusercontent.com/65371348/115462987-ab726500-a201-11eb-9f39-e6a214a11462.mp4
 
 
+
+
 The current repository contains a deep learning project for face detection and recognition of face mask usage, created in the context of the Coivd-19 pandemic.
 
+
 The project is written in Python language, the model was trained with Keras-Tensorflow inside Google Colab, the video display was executed with OpenCV locally on a Ubuntu machine.
+
+
+
 
 The documents contained are:
 
@@ -22,6 +28,8 @@ The documents contained are:
 - "detect_mask_video.py": A Python file where you open the mask_recognizer.h5 model, the face_detector folder and you run locally the camera for the final face detection and facemask recognition. Please store this file locally in the PC that you are going to display the camera.
 
 - "face_mask_video.mp4": An illustrative video of myself with the final result.
+
+
 
 
 
