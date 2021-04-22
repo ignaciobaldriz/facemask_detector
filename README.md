@@ -35,8 +35,9 @@ The documents contained are:
 
 DOCUMENTATION AND REFERENCES:
 
-- https://www.youtube.com/watch?v=Ax6P93r32KU
+- https://www.mygreatlearning.com/blog/real-time-face-detection/
+- https://colab.research.google.com/drive/1KuI6BjaBsuz8fClweso_c2aNgqmSPezl?usp=sharing
 - https://github.com/balajisrinivas/Face-Mask-Detection
-- https://www.youtube.com/watch?v=4WmLOAd1BvY
-- https://github.com/Chando0185/Face_Mask_Detection
+- https://www.youtube.com/watch?v=Ax6P93r32KU
+
 
