@@ -19,11 +19,11 @@ The documents contained are:
 
 - "requirements.txt": A text file with the libraries and versions requirements. Run this file inside your virtual environment before importing any librarie.
 
-- "facemask_detector.ipynb": A GoogleColab Notebook written in Python to import the dataset, train the model and save it as a h5 file. Please run this file inside of the same Google Colab folder of the dataset.
+- "facemask_detector.ipynb": A GoogleColab Notebook written in Python to import the dataset, train the model and save it as a HDF5 file. Please run this file inside the same Google Colab folder of the dataset.
 
 - "mask_recognizer.h5": A HDF5 file with the model binarized. Please store this file locally in the PC that you are going to display the camera.
 
-- "face_detector": A folder with two files necessaries to run the final .py file with the camera recognition. Please store this file locally in the PC that you are going to display the camera.
+- "face_detector": A folder with two files necessaries to run the final Python file with the camera recognition. Please store this file locally in the PC that you are going to display the camera.
 
 - "detect_mask_video.py": A Python file where you open the mask_recognizer.h5 model, the face_detector folder and you run locally the camera for the final face detection and facemask recognition. Please store this file locally in the PC that you are going to display the camera.
 
